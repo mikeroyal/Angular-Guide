@@ -4,7 +4,7 @@
   Angular Guide
 </h1>
 
-#### A guide covering Angular JavaScript freamwork including the applications and tools that will make you a better and more efficient Angular developer.
+#### A guide covering the Angular web framework including the applications and tools that will make you a better and more efficient Angular developer.
 
 ## Resources
 
