@@ -6,7 +6,14 @@
 
 #### A guide covering the Angular web framework including the applications and tools that will make you a better and more efficient Angular developer.
 
-## Resources
+ **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118560463-623d0480-b71e-11eb-9071-f3ff97bc8b01.png">
+  <br />
+</p>
+
+# Angular Learning Resources
 
 [Angular](https://www.angular.io/) is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages developed by Google.
 
@@ -44,7 +51,7 @@
 
 [Laravel and Angular](https://laravel-angular.io/docs/1/)
 
-## Tools
+# Angular Tools and Frameworks
 
 [Angular CLI](https://cli.angular.io/) is a command-line tool makes it easy to create an application that already works, right out of the box and follows all of Angular's best practices.
 
@@ -81,3 +88,13 @@
 [Angular Flex Layout](https://github.com/angular/flex-layout) is a sophisticated HTML UI layout for Angular applications; using Flexbox and a [Responsive API](https://github.com/angular/flex-layout/wiki/Responsive-API).
 
 [UI-Grid](https://github.com/angular-ui/ui-grid) is an AngularJS data grid.
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Angular-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
